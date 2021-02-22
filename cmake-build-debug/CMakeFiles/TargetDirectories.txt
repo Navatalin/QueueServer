@@ -1,3 +1,0 @@
-C:/Users/lumbe/CLionProjects/QueueServer/cmake-build-debug/CMakeFiles/QueueServer.dir
-C:/Users/lumbe/CLionProjects/QueueServer/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lumbe/CLionProjects/QueueServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
